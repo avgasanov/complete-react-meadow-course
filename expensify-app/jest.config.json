@@ -1,0 +1,9 @@
+{
+    "setupFiles": [
+        "raf/polyfill",
+        "D:\\Courses\\complete-react-meadow-course\\expensify-app\\src\\tests\\setupTests.js"
+    ],
+    "snapshotSerializers": [
+        "enzyme-to-json/serializer"
+    ]
+}
